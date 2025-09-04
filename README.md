@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ilya.
 - 👀 I’m interested in Mechanical Engineering and Coding!
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Java in CPEN 221.
 - 📫 You can reach me by email: ijarov94@gmail.com
 
 <!---
