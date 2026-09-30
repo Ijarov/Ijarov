@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ilya.
-- 🌱 I’m currently learning Java in CPEN 221.
+- 🌱 I’m interested in robotics, mechatronics, and control systems. Designing intelligent machines that interact with the physical world.
 - 📫 You can reach me by email: ijarov94@gmail.com
 
 <!---
